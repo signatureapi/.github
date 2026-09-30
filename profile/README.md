@@ -151,7 +151,7 @@ Signatures are valid under the US ESIGN Act and UETA, the EU's eIDAS regulation,
 | :-- | :-- |
 | [**skills**](https://github.com/signatureapi/skills) | Agent skills for SignatureAPI: design, build and diagnose e-signature integrations |
 | [**signatureapi-mobile-integration-demo**](https://github.com/signatureapi/signatureapi-mobile-integration-demo) | Embedded signing in native iOS (SwiftUI) and Android (Compose) apps |
-| [**ceremony-embed-demo**](https://github.com/signatureapi/ceremony-embed-demo) | Embed a signing ceremony in your web app with an iframe |
+| [**signatureapi-web-integration-demo**](https://github.com/signatureapi/signatureapi-web-integration-demo) | Embedded signing in a web page with an iframe, plus a [live demo](https://signatureapi.github.io/signatureapi-web-integration-demo/) |
 
 <br>
 
